@@ -51,3 +51,10 @@ table button:hover {
 h1 {
     font-size: 24px
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+        margin: 10px;
+        padding: 0px;
+    }
+}
