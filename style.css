@@ -58,6 +58,7 @@ h1 {
         grid-template-columns: 1fr;
         grid-column: 1fr;
         place-items: center;
-    
+        margin: 30px;
+        padding: 0px;
     }
 }
